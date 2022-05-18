@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420604761797",
+    "project_id": "timart-f147d",
+    "storage_bucket": "timart-f147d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420604761797:android:82408ebcb971122a7802ac",
+        "android_client_info": {
+          "package_name": "com.example.quicktel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420604761797-o7mlh5iq98ehuniqh8u0vf4fes86kirk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfjLJJ-Iqsvr_29RABWTpV9ssWERDuQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420604761797-o7mlh5iq98ehuniqh8u0vf4fes86kirk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
